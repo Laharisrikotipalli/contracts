@@ -86,7 +86,7 @@ Ensure the following are installed:
 
 ### 3.2 Clone Repository
 ```bash
-git clone https://github.com/Priyanka05f0/dao-governance-system
+git clone https://github.com/Laharisrikotipalli/contracts
 cd dao-governance-system
 ```
 
